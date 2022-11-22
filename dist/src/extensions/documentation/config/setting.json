@@ -1,0 +1,23 @@
+{
+  "info": {
+    "version": "3.0.0",
+    "title": "BEPCOTHANH DOCUMENTATION",
+    "description": "",
+    "termsOfService": "https://www.freeprivacypolicy.com/blog/sample-terms-service-template",
+    "contact": {
+      "name": "PP TEAM",
+      "email": "contact-email@something.io",
+      "url": "mywebsite.io"
+    },
+    "license": {
+      "name": "Apache 2.0",
+      "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
+    }
+  },
+  "servers": [
+    {
+      "url": "http://194.233.73.110:5678",
+      "description": "Development server"
+    }
+  ]
+}
